@@ -92,7 +92,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                 str_latitude = String.valueOf(latitude);
                 str_longitude = String.valueOf(longitude);
 
-                Log.d("lat_long: ", str_latitude + " " + str_longitude);
+                Log.d("lat_lo ng: ", str_latitude + " " + str_longitude);Log.d("lat_lo ng: ", str_latitude + " " + str_longitude);
 
 
 
