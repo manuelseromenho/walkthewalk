@@ -1,5 +1,5 @@
-Aplicação criada em Android Studio.
+Academic work based on the creation of a tool for Android phones using Android Studio.
 
-Esta aplicação foi criada em contexto académico, com o intuito de criar uma ferramenta para telefones Android,
-em que o utilizador teria acesso ao trajeto indicado pelo Google Maps, deste o ponto onde se encontra até a um
-dos campus da Universidade do Algarve.
+The user have access to the path of Google Maps. The path shown is from the user GPS location till the GPS location of one of the University of Algarve (Portugal) campus, considering the user selection.
+
+
